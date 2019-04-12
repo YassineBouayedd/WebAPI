@@ -12,7 +12,7 @@ namespace WebAPI.Models
         public string Password { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-
+        /test
         public string LoggedOn { get; set; }
     }
 }
